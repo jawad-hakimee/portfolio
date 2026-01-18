@@ -10,7 +10,7 @@ const Footer = () => {
                 </div>
 
                 <p className="text-slate-500 text-sm flex items-center gap-1 justify-center md:justify-start">
-                    Made with <Heart className="w-3 h-3 text-red-500 fill-red-500" /> by Jawad Hakimi © {new Date().getFullYear()}
+                    Made by Jawad Hakimi © {new Date().getFullYear()}
                 </p>
 
                 <div className="flex gap-6 text-sm text-slate-500">

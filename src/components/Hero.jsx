@@ -66,16 +66,16 @@ const Hero = () => {
                                     <pre className="text-xs md:text-sm p-6 text-left">
                                         <code className="language-javascript">
                                             {`const developer = {
-  name: "Jawad Hakimi",
-  role: "Web Developer",
-  skills: [
-    "React",
-    "Node.js",
-    "Tailwind",
-    "UI/UX"
-  ],
-  status: "Ready to build"
-};`}
+                                            name: "Jawad Hakimi",
+                                            role: "Web Developer",
+                                            skills: [
+                                                "React",
+                                                "Node.js",
+                                                "Tailwind",
+                                                "UI/UX"
+                                            ],
+                                            status: "Ready to build"
+                                            };`}
                                         </code>
                                     </pre>
                                 </div>
