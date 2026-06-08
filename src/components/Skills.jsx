@@ -2,11 +2,22 @@ import { motion } from 'framer-motion';
 
 const Skills = () => {
     const skills = [
+
         { name: "JavaScript", level: "Expert" },
         { name: "React", level: "Expert" },
         { name: "Tailwind CSS", level: "Expert" },
         { name: "Node.js", level: "Advanced" },
         { name: "Express.js", level: "Advanced" },
+        { name: "Laravel", level: "Expert" },
+        { name: "PHP", level: "Expert" },
+        { name: "Wordpress", level: "Expert" },
+        { name: "SEO Optimization", level: "Expert" },
+        { name: "Security Optimization", level: "Expert" },
+        { name: "Woocommerce", level: "Expert" },
+        { name: "Next.js", level: "Expert" },
+        { name: "RestAPI", level: "Expert" },
+        { name: "JWT Auth", level: "Expert" },
+        { name: "MySQL", level: "Expert" },
         { name: "Git", level: "Intermediate" },
         { name: "GitHub", level: "Advanced" },
         { name: "Figma", level: "Intermediate" },

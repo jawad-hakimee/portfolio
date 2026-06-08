@@ -5,6 +5,23 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
     const projects = [
         {
+            title: "Abdal Azami Official Website",
+            description: "Abdal Azami Official Website offers elegant, high-quality Skechers Shoes designed for comfort, and everyday wear.",
+            tags: ["Wordpress", "Woocommerce", "Responsive Design", "SEO Optimization", "Security Optimization"],
+            image: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=1200&auto=format&fit=crop&q=80",
+            githubLink: "https://abdashoes.com/",
+            liveLink: "https://abdashoes.com/"
+        },
+        ,
+        {
+            title: "Edvora Tech",
+            description: "Empowering students with flexible online learning, expert guidance, and interactive educational resources.",
+            tags: ["Laravel", "PHP", "MySQL", "Responsive Design", "JavaScript", "API Integration", "Security Optimization", "REST API", "JWT Authentication"],
+            image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&auto=format&fit=crop&q=80",
+            githubLink: "https://edvoratech.com/",
+            liveLink: "https://edvoratech.com/"
+        },
+        {
             title: "Alone Hijab Website",
             description: "Alone Hijab Store offers elegant, high-quality hijabs designed for comfort, modesty, and everyday wear.",
             tags: ["Next.js", "Responsive Design", "JavaScript", "Tailwind"],
