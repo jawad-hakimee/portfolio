@@ -30,12 +30,27 @@ const Projects = () => {
             liveLink: "https://alone-hijab-scon.vercel.app/"
         },
         {
+            title: "CodeWeekend Members",
+            description: "CodeWeekend Community Members is a platform that helps members connect with each other and share their experiences.",
+            tags: ["JavaScript", "Next.js", "Tailwind"],
+            image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&auto=format&fit=crop&q=80",
+            liveLink: "https://code-weekend-community-members-2023.netlify.app/"
+        },
+        {
             title: "Alone Gym6 Website",
             description: "A modern gym website featuring workout programs, membership plans, trainer profiles, and a responsive design for fitness enthusiasts",
             tags: ["JavaScript", "Next.js", "Tailwind"],
             image: "https://linkspaces.co.uk/wp-content/uploads/2024/05/gb-botanica-gym-link-spaces-slough.jpg",
             githubLink: "https://github.com/jawad-hakimee/Gym6",
             liveLink: "https://gym6-xi.vercel.app/"
+        },
+        {
+            title: "JK Online Store",
+            description: "JK Online Store provides convenient online shopping with quality products, competitive prices, secure transactions, and reliable customer service.",
+            tags: ["JavaScript", "React", "Tailwind"],
+            image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1974&auto=format&fit=crop",
+            githubLink: "#",
+            liveLink: "https://jk-online-store.netlify.app/"
         },
         {
             title: "Coming Soon",
